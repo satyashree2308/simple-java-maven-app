@@ -1,6 +1,7 @@
 # simple-java-maven-app
 #######################
-#this is to test poll scm 1
+######################
+#this is to test poll scm 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
